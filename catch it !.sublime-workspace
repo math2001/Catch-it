@@ -1,0 +1,1864 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cen",
+				"centery"
+			],
+			[
+				"col",
+				"colorTitre"
+			],
+			[
+				"tex",
+				"texteRetourLigne"
+			],
+			[
+				"nb",
+				"nbDecoupeCaractere"
+			],
+			[
+				"scre",
+				"screen"
+			],
+			[
+				"text",
+				"textSize"
+			],
+			[
+				"tou",
+				"toujoursPlusGrand"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"w",
+				"waitForKeydown"
+			],
+			[
+				"lis",
+				"listBall"
+			],
+			[
+				"li",
+				"listBall"
+			],
+			[
+				"min",
+				"min_ball_normal"
+			],
+			[
+				"scree",
+				"screenSize"
+			],
+			[
+				"tem",
+				"tempsEnPlus"
+			],
+			[
+				"BallMake",
+				"BallMakeLose"
+			],
+			[
+				"type",
+				"typeBall"
+			],
+			[
+				"get",
+				"get_time"
+			],
+			[
+				"init",
+				"initBall"
+			],
+			[
+				"temp",
+				"tempsDeBase"
+			],
+			[
+				"ajou",
+				"ajoutTemps"
+			],
+			[
+				"score",
+				"scoreVaisseau"
+			],
+			[
+				"get_s",
+				"get_surface"
+			],
+			[
+				"New",
+				"NEWvRect"
+			],
+			[
+				"ball",
+				"ballRect"
+			],
+			[
+				"va",
+				"vaisRect"
+			],
+			[
+				"di",
+				"diry"
+			],
+			[
+				"car",
+				"carteEnReserve"
+			],
+			[
+				"carteen",
+				"carteEnMain"
+			],
+			[
+				"id",
+				"id_tour"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"fwb",
+				"fw-br	font-weight: bolder;"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"te-dt	text-emphasis: dot;"
+			],
+			[
+				"ff",
+				"animfm-f	animation-fill-mode: forwards;"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"mou",
+				"mousePos"
+			],
+			[
+				"res",
+				"resultDie"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"cara",
+				"caractere_to_encode"
+			],
+			[
+				"k",
+				"k	key-shortcut"
+			],
+			[
+				"key",
+				"keypad_plus"
+			],
+			[
+				"bloc",
+				"blockquote"
+			],
+			[
+				"forma",
+				"format_string"
+			],
+			[
+				"$part",
+				"$part_n"
+			],
+			[
+				"inc",
+				"incl1	include_once …"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"by",
+				"binary_file_patterns"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ge",
+				"getElementsByTagName"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a-zA-Z",
+				"a-zA-Z0-9"
+			],
+			[
+				"co",
+				"codes"
+			],
+			[
+				"c",
+				"c	console-log()"
+			],
+			[
+				"h",
+				"head"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"Def",
+				"Default"
+			],
+			[
+				"upper",
+				"upper_case"
+			],
+			[
+				"comm",
+				"command"
+			],
+			[
+				"com",
+				"commandes"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"#a",
+				"#art-3"
+			],
+			[
+				"#art",
+				"#art-2"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"form",
+				"formu"
+			],
+			[
+				"#err",
+				"#erreurSave"
+			],
+			[
+				"hei",
+				"heightNB"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"date_ce",
+				"date_creation"
+			],
+			[
+				"$tex",
+				"$texter"
+			],
+			[
+				"preg_",
+				"preg_quote"
+			],
+			[
+				"$da",
+				"$date_last_modif"
+			],
+			[
+				"$date",
+				"$date_creation"
+			],
+			[
+				"$_",
+				"$_GET"
+			],
+			[
+				"str",
+				"strrchr"
+			],
+			[
+				"str_",
+				"str_split"
+			],
+			[
+				"change",
+				"changePass"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"Cha",
+				"Changer"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"accou",
+				"accountMain"
+			],
+			[
+				"bar",
+				"barreIco"
+			],
+			[
+				"he",
+				"heigthNB"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"paddn",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"page",
+				"page_redir"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"header",
+				"headerSiteWeb"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"fe",
+				"fenetreToOpen"
+			],
+			[
+				"listeDe",
+				"listeDeroulanteMain"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fond",
+				"fond_bouton_actif"
+			],
+			[
+				"b",
+				"border-image"
+			],
+			[
+				"per",
+				"persoRect"
+			],
+			[
+				"perso",
+				"persoNormal"
+			],
+			[
+				"filePerso",
+				"filePersoPreSaut"
+			],
+			[
+				"las",
+				"lastElement"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"vaisse",
+				"vaisseauImg"
+			],
+			[
+				"d",
+				"defs	Method"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"re",
+				"resetHover"
+			],
+			[
+				"cur",
+				"cursors_arg"
+			],
+			[
+				"e",
+				"event_name"
+			],
+			[
+				"carte",
+				"carteHover"
+			],
+			[
+				"po",
+				"posTirer"
+			],
+			[
+				"sc",
+				"screenHau"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/math/python/Lib/site-packages/pygame/examples/fonty.py",
+			"settings":
+			{
+				"buffer_size": 2539,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "#main.py",
+			"settings":
+			{
+				"buffer_size": 6475,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "#catch them quick.py",
+			"settings":
+			{
+				"buffer_size": 433,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "classes.py",
+			"settings":
+			{
+				"buffer_size": 9843,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "classes_update.py",
+			"settings":
+			{
+				"buffer_size": 7022,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"snippetcom",
+				"Snippet: big-commentaire"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"snipp",
+				"Snippet: gradient"
+			],
+			[
+				"snip",
+				"Snippet: border-debogage-css"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"snippeenc",
+				"Snippet: encoding"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"liste",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"snippetp",
+				"Snippet: poo"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"prevb",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package Control:",
+				"Package Control: Create Package File"
+			],
+			[
+				"sshm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sshtml	",
+				"Set Syntax: HTML"
+			],
+			[
+				"sspl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sspython",
+				"Set Syntax: Python"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pcli",
+				"Package Control: List Packages"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"sht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"emmet		",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instlp",
+				"Package Control: Install Package"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"vie",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"vtog",
+				"View: Toggle Menu"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"vtost",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ss:php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sspp",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 314.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/math/Desktop/test.css",
+		"/C/#Python/Python mes jeux/Catch it !/Texte__class.py",
+		"/C/Users/math/python/Lib/site-packages/pygame/examples/fonty.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/snippet/python/big-commentaire.sublime-snippet",
+		"/C/#Python/Python mes jeux/Catch it !/classes.py",
+		"/C/Users/math/Documents/AAA Mes documents/pythons/philipe/jeu-bastidroid-V10-balle-magique/vaisseau_balle_10.py",
+		"/C/#Python/Python mes jeux/Catch it !/#main.py",
+		"/C/#Python/Python mes jeux/Catch it !/test/randint.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/#Python/Python test/heritage/her.py",
+		"/C/Users/math/python/Lib/site-packages/pygame/examples/chimp.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/math/python/Lib/couleur.py",
+		"/C/#Python/Python mes jeux/Catch it !/img/black_ball.png",
+		"/C/Users/math/Documents/AAA Mes documents/pythons/philipe/jeu-bastidroid-V10-balle-magique/archive/balle1.py",
+		"/C/#Python/Python mes jeux/aide/Time & font/recapitulatif.py",
+		"/C/Users/math/python/Lib/site-packages/pygame/examples/testsprite.py",
+		"/C/Users/math/Desktop/_rpg_console.py",
+		"/C/#Python/projet/rpg/test/classes.py",
+		"/C/Users/math/Desktop/fun.py",
+		"/C/#Python/projet/rpg/classes.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/my-color-scheme/cool-color-code.tmTheme",
+		"/C/#Python/Zombicide/informatique/#main.py",
+		"/C/wamp/www/Zombicide/javascript/luck.js",
+		"/C/wamp/www/Zombicide/luck/carte-inconnue.php",
+		"/C/wamp/www/Zombicide/luck/style-luck.css",
+		"/C/wamp/www/Zombicide/accueil.php",
+		"/C/## page sublime/Math2001 • TmTheme Editor_fichiers/application-167001a4e2a230f5442f84a089ca9541.js",
+		"/C/Users/math/AppData/Local/Temp/Math2001.tmTheme-1.txt",
+		"/C/wamp/www/Zombicide/_bdd.php",
+		"/C/wamp/www/Zombicide/luck/index.php",
+		"/C/wamp/www/Zombicide/luck/carte-liste.php",
+		"/C/#Python/Zombicide/with-what-am-i-the-most-lucky/classes.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/Color Highlighter/themes/cool-color-code.tmTheme",
+		"/C/#Python/Zombicide/with-what-am-i-the-most-lucky/test/test-ent-function.py",
+		"/C/#Python/Zombicide/with-what-am-i-the-most-lucky/#main.py",
+		"/C/#Python/Zombicide/with-what-am-i-the-most-lucky/test/type.py",
+		"/C/#Python/Zombicide/make-board/_main.py",
+		"/C/#Python/Zombicide/make-board/my_class.py",
+		"/C/#Python/Python pratique/rappel_basic/rappel.py",
+		"/C/#Python/Zombicide/make-board/main.py",
+		"/C/#Python/Zombicide/make-board/test/test-rotate.py",
+		"/C/wamp/www/sublime/control/Color.class.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/Soda Light.sublime-theme",
+		"/C/wamp/www/sublime/introduction-sublime.php",
+		"/C/wamp/www/sublime/commentaire-du-cours-sur-sublime-text.php",
+		"/C/wamp/www/sublime/page_error.php",
+		"/C/wamp/www/sublime/creez-vos-coloration-syntaxique.php",
+		"/C/wamp/www/sublime/control/Aside.class.php",
+		"/C/wamp/www/sublime/style/main.css",
+		"/C/wamp/www/sublime/bloc/header.php",
+		"/C/wamp/www/sublime/les-themes-et-la-coloration-syntaxique-sur-sublime-text.php",
+		"/C/Users/math/Documents/AAA Mes documents/CNED -dossier/francais/Seq 7/corrigé.pdf",
+		"/C/wamp/www/sublime/download-plugins.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/README.md",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/Soda Light/spinner/spinner.png",
+		"/C/wamp/www/sublime/les-projets-sur-sublime-text.php",
+		"/C/wamp/www/sublime/plan-du-cours-sur-sublime-text.php",
+		"/C/wamp/www/sublime/bug-raccourci.php",
+		"/C/wamp/www/sublime/bien-continuer-et-remerciment.php",
+		"/C/wamp/www/sublime/index.php",
+		"/C/wamp/www/sublime/commandes-base.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/my_theme/test/main.sublime-theme",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+		"/C/wamp/www/sublime/creez-vos-propres-plugins-sur-sublime-text.php",
+		"/C/wamp/www/sublime/comment-je-color-mon-code.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/zzzplugin/camelCase.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/zzzplugin/math.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/zzzplugin/underscore.py",
+		"/C/wamp/www/sublime/ameliorez-snippets.php",
+		"/C/wamp/www/sublime/macro.php",
+		"/C/wamp/www/sublime/style/commentaire.css",
+		"/C/wamp/www/sublime/js/main.js",
+		"/C/wamp/www/sublime/bloc/aside-sublime.php",
+		"/C/wamp/www/sublime/control/controleur-comment.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/wamp/www/sublime/control/post-message-comment.php",
+		"/C/wamp/www/sublime/_co_bdd.php",
+		"/C/wamp/www/editeur de texte JS V2/_bdd_co2.php",
+		"/C/wamp/www/sublime/.gitignore",
+		"/C/wamp/www/sublime/bien-continuer.php",
+		"/C/wamp/www/sublime/perso-setup.php",
+		"/C/#HTML/#test/petit/son.html",
+		"/C/#HTML/#test/petit/formulaire.html",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/snippet/poo.sublime-snippet",
+		"/C/wamp/www/sublime/test/test-coloration-php.php",
+		"/C/wamp/www/sublime/test/test-color-bug-ie.php",
+		"/C/wamp/www/sublime/commentaire.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/zzzplugin/math_exec.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/wamp/www/sublime/creez-vos-propre-plugins-sur-sublime-text.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/zzzplugin/monplugin.py",
+		"/C/Users/math/Desktop/regex.py",
+		"/C/wamp/www/sublime/sublime.sublime-project",
+		"/C/wamp/www/sublime/emmet.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/zzzplugin/enco.py",
+		"/C/wamp/www/sublime/creez-snippets.php",
+		"/C/wamp/www/sublime/test/test-coloration.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/snippet/html/spe.sublime-snippet",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Prefixr/example.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/zzzplugin/spe.py",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/snippet/test/upper_case.sublime-snippet",
+		"/C/wamp/www/sublime/tapez-des-balises-html-rapidement.php",
+		"/C/wamp/www/sublime/test/test-nb_line.php",
+		"/C/wamp/www/sublime/control/test-nb_line.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Pristine Packages/Theme - Default.sublime-package",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Pristine Packages/PHP.sublime-package",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/Ruby/Ruby.tmLanguage",
+		"/C/wamp/www/sublime/personnalisez-raccourcis.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/snippet/test/cours.sublime-snippet",
+		"/C/wamp/www/sublime/test/test-quote.php",
+		"/C/Users/math/AppData/Roaming/Sublime Text 2/Packages/User/snippet/test/$sup10.sublime-snippet",
+		"/C/Users/math/Desktop/Telecharger des plugins sur Sublime text_fichiers/main.css",
+		"/C/wamp/www/sublime/sublime.sublime-workspace",
+		"/C/wamp/www/sublime/control/color-code.class.php",
+		"/C/wamp/www/sublime/les-projet-sur-sublime-text.php",
+		"/C/wamp/www/editeur de texte JS V2/main.php",
+		"/C/Users/math/Desktop/sub.py",
+		"/C/wamp/www/my-WYSIWYG/regex.php",
+		"/C/wamp/www/my-WYSIWYG/save.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\sublime\\",
+			"C:\\wamp\\www\\sublime\\bloc",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"contin",
+			"une touche",
+			"print ",
+			"mf",
+			"font",
+			"True",
+			"defaut",
+			"====",
+			"250",
+			"blanc",
+			"info",
+			"print",
+			"texte1",
+			"[0]",
+			"$2",
+			"1",
+			"$2",
+			"nbBall",
+			"------------",
+			"------------------------------",
+			"print ",
+			"niveau.ge",
+			"niveau.",
+			"listBall",
+			"niveau",
+			"=",
+			"initB",
+			"-",
+			"initBall",
+			"tempsRapporteBalle",
+			"'nbBalleInit'",
+			"\\W[A-Z]+\\W",
+			"\\W[\\uA-Z]+\\W",
+			"max",
+			"i",
+			"abs",
+			"l",
+			"min_ball_normal",
+			"balle_normal",
+			"line",
+			"-----------",
+			"-",
+			"------------- ",
+			"-",
+			"- ",
+			"son",
+			"print",
+			"result",
+			"re.",
+			"if result",
+			"setVie",
+			"self.vie",
+			"score",
+			"------------------------------",
+			"-",
+			"son",
+			"-----------------",
+			"50",
+			"votre s",
+			"==",
+			"reset",
+			"pathImg",
+			"500",
+			"time.dela",
+			"clock",
+			"rect",
+			"texte",
+			"print",
+			"timeBase",
+			"50",
+			"100",
+			"50",
+			"10",
+			"vitesse",
+			"1",
+			"init",
+			"listBall",
+			"listBalle",
+			"speed",
+			"50",
+			"speed",
+			"0",
+			"#d00",
+			"alert",
+			"h2",
+			"p",
+			"2016",
+			"/",
+			"1s",
+			"2s",
+			"5s",
+			"cons",
+			"\"></",
+			"titre",
+			"-",
+			"test",
+			"imgPos",
+			"bool",
+			"test",
+			"0",
+			"print",
+			"all",
+			"T",
+			"t",
+			"surf",
+			"input",
+			"False",
+			"print",
+			"p",
+			"#5cc",
+			"500",
+			"ligne",
+			"rep",
+			"500",
+			"#",
+			"line",
+			"dt",
+			"True",
+			"subl",
+			"caractère",
+			"value",
+			",",
+			"df",
+			"none",
+			"json",
+			"php",
+			"}",
+			"{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bien",
+			"Color.class.php",
+			"\"",
+			"h",
+			"bazard",
+			"fenêtre",
+			"sublime",
+			"type=\"image/png\"",
+			"supprime",
+			"dfn",
+			"",
+			"la commande",
+			"maj",
+			"blockquote",
+			"amélioration",
+			"faites",
+			"command pallete",
+			"h4",
+			"\"",
+			">",
+			"<",
+			"(taCo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/math/python/Lib/site-packages/pygame/examples/fonty.py",
+					"settings":
+					{
+						"buffer_size": 2539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cool-color-code.tmTheme",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 984.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "#main.py",
+					"settings":
+					{
+						"buffer_size": 6475,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								923,
+								923
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cool-color-code.tmTheme",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 550.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "#catch them quick.py",
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cool-color-code.tmTheme",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "classes.py",
+					"settings":
+					{
+						"buffer_size": 9843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9843,
+								9843
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cool-color-code.tmTheme",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7744.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "classes_update.py",
+					"settings":
+					{
+						"buffer_size": 7022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3473,
+								3473
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cool-color-code.tmTheme",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4245.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"luck.css",
+				"luck/style-luck.css"
+			],
+			[
+				"acc",
+				"accueil.php"
+			],
+			[
+				".css",
+				"luck/style-luck.css"
+			],
+			[
+				"class",
+				"classes.py"
+			],
+			[
+				"colo.cl",
+				"control/Color.class.php"
+			],
+			[
+				"intr",
+				"introduction-sublime.php"
+			],
+			[
+				"comment",
+				"commentaire-du-cours-sur-sublime-text.php"
+			],
+			[
+				"clol.",
+				"control/Color.class.php"
+			],
+			[
+				"csss",
+				"les-themes-et-la-coloration-syntaxique-sur-sublime-text.php"
+			],
+			[
+				"css",
+				"style/main.css"
+			],
+			[
+				"plugin",
+				"download-plugins.php"
+			],
+			[
+				"plu",
+				"download-plugins.php"
+			],
+			[
+				"pro",
+				"les-projets-sur-sublime-text.php"
+			],
+			[
+				"plan",
+				"plan-du-cours-sur-sublime-text.php"
+			],
+			[
+				"asiclas",
+				"control/Aside.class.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"macr",
+				"macro.php"
+			],
+			[
+				"snipp",
+				"ameliorez-snippets.php"
+			],
+			[
+				"comme",
+				"commentaire-du-cours-sur-sublime-text.php"
+			],
+			[
+				"comm",
+				"commandes-base.php"
+			],
+			[
+				"asidecl",
+				"control/Aside.class.php"
+			],
+			[
+				"asi",
+				"bloc/aside-sublime.php"
+			],
+			[
+				"comcss",
+				"style/commentaire.css"
+			],
+			[
+				"commenta",
+				"commentaire-du-cours-sur-sublime-text.php"
+			],
+			[
+				"rem",
+				"bien-continuer-et-remerciment.php"
+			],
+			[
+				"bien",
+				"bien-continuer.php"
+			],
+			[
+				"reme",
+				"bien-continuer-et-remerciment.php"
+			],
+			[
+				"bu",
+				"bug-raccourci.php"
+			],
+			[
+				"commen",
+				"commentaire.php"
+			],
+			[
+				"com",
+				"commandes-base.php"
+			],
+			[
+				"clss",
+				"control/Color.class.php"
+			],
+			[
+				"colo",
+				"comment-je-color-mon-code.php"
+			],
+			[
+				"pers",
+				"perso-setup.php"
+			],
+			[
+				"col",
+				"control/Color.class.php"
+			],
+			[
+				"mac",
+				"macro.php"
+			],
+			[
+				"ame",
+				"ameliorez-snippets.php"
+			],
+			[
+				"a",
+				"ameliorez-snippets.php"
+			],
+			[
+				"emmet",
+				"emmet.php"
+			],
+			[
+				"testp",
+				"test/test-coloration-php.php"
+			],
+			[
+				"test",
+				"test/test-coloration.php"
+			],
+			[
+				"cre",
+				"creez-snippets.php"
+			],
+			[
+				"ams",
+				"ameliorez-snippets.php"
+			],
+			[
+				"emme",
+				"emmet.php"
+			],
+			[
+				"rapi",
+				"tapez-des-balises-html-rapidement.php"
+			],
+			[
+				"snip",
+				"ameliorez-snippets.php"
+			],
+			[
+				"head",
+				"bloc/header.php"
+			],
+			[
+				"cls",
+				"control/Color.class.php"
+			],
+			[
+				"emm",
+				"emmet.php"
+			],
+			[
+				"set",
+				"perso-setup.php"
+			],
+			[
+				"clas",
+				"control/Color.class.php"
+			],
+			[
+				"rec",
+				"personnalisez-raccourcis.php"
+			],
+			[
+				"ra",
+				"bug-raccourci.php"
+			],
+			[
+				"do",
+				"download-plugins.php"
+			],
+			[
+				"perss",
+				"perso-setup.php"
+			],
+			[
+				"per",
+				"personnalisez-raccourcis.php"
+			],
+			[
+				"pr",
+				"les-projets-sur-sublime-text.php"
+			],
+			[
+				"dow",
+				"download-plugins.php"
+			],
+			[
+				"aside",
+				"bloc/aside-sublime.php"
+			],
+			[
+				"in",
+				"introduction-sublime.php"
+			],
+			[
+				"ass",
+				"bloc/aside-sublime.php"
+			],
+			[
+				"macro",
+				"macro.php"
+			],
+			[
+				"perra",
+				"personnalisez-raccourcis.php"
+			],
+			[
+				"rcc",
+				"bug-raccourci.php"
+			],
+			[
+				"les",
+				"les-projets-sur-sublime-text.php"
+			],
+			[
+				"bas",
+				"commandes-base.php"
+			],
+			[
+				"am",
+				"ameliorez-snippets.php"
+			],
+			[
+				"style",
+				"style/main.css"
+			],
+			[
+				"main",
+				"style/main.css"
+			],
+			[
+				"ais",
+				"/C/wamp/www/sublime/bloc/aside-sublime.php"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"/",
+				"/C/wamp/www/editeur de texte JS V2/main.php"
+			],
+			[
+				"java",
+				"javascript.js"
+			],
+			[
+				".",
+				"/C/wamp/www/editeur de texte JS V2/main.php"
+			],
+			[
+				"jav",
+				"javascript.js"
+			],
+			[
+				"ma.p",
+				"/C/wamp/www/editeur de texte JS V2/main.php"
+			],
+			[
+				"j",
+				"javascript.js"
+			],
+			[
+				".p",
+				"/C/wamp/www/editeur de texte JS V2/main.php"
+			],
+			[
+				"ins",
+				"/C/wamp/www/editeur de texte JS V2/inscription.php"
+			],
+			[
+				"fen2",
+				"/C/wamp/www/editeur de texte JS V2/fen_ouvrir2.php"
+			],
+			[
+				"fa",
+				"/C/wamp/www/editeur de texte JS V2/favorite-append.php"
+			],
+			[
+				"main.",
+				"/C/wamp/www/editeur de texte JS V2/main.php"
+			],
+			[
+				"mess",
+				"/C/wamp/www/editeur de texte JS V2/erreur/message_save_as.php"
+			],
+			[
+				"favo",
+				"/C/wamp/www/editeur de texte JS V2/favorite-append.php"
+			],
+			[
+				"f2",
+				"/C/wamp/www/editeur de texte JS V2/fen_ouvrir2.php"
+			],
+			[
+				"2",
+				"wysiwyg_v2.sublime-workspace"
+			],
+			[
+				"un",
+				"untitled"
+			],
+			[
+				"fe",
+				"/C/wamp/www/editeur de texte JS V2/fen_ouvrir.php"
+			],
+			[
+				"fen",
+				"/C/wamp/www/editeur de texte JS V2/fen_ouvrir.php"
+			],
+			[
+				".php",
+				"/C/wamp/www/editeur de texte JS V2/main.php"
+			],
+			[
+				"fene",
+				"/C/wamp/www/editeur de texte JS V2/fenetre.php"
+			],
+			[
+				"supprdw",
+				"/C/wamp/www/editeur de texte JS V2/suppr-dow.php"
+			],
+			[
+				"recup",
+				"/C/wamp/www/editeur de texte JS V2/recup_fichier.php"
+			],
+			[
+				"re",
+				"/C/wamp/www/editeur de texte JS V2/recup_fichier.php"
+			],
+			[
+				"newc",
+				"/C/wamp/www/editeur de texte JS V2/create_new_doc.php"
+			],
+			[
+				"suppr",
+				"/C/wamp/www/editeur de texte JS V2/suppr-doc.php"
+			],
+			[
+				"message",
+				"/C/wamp/www/editeur de texte JS V2/erreur/message_save_as.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"recup_",
+				"/C/wamp/www/editeur de texte JS V2/recup_fichier.php"
+			],
+			[
+				"fen_",
+				"/C/wamp/www/editeur de texte JS V2/fen_ouvrir.php"
+			],
+			[
+				"save",
+				"/C/wamp/www/editeur de texte JS V2/save.php"
+			],
+			[
+				"verif",
+				"/C/wamp/www/editeur de texte JS V2/verif_co.php"
+			],
+			[
+				"verif_co",
+				"/C/wamp/www/editeur de texte JS V2/verif_co.php"
+			],
+			[
+				"conn",
+				"/C/wamp/www/editeur de texte JS V2/connexion.php"
+			],
+			[
+				"my",
+				"/C/wamp/www/editeur de texte JS V2/my_header.php"
+			],
+			[
+				"save_as",
+				"/C/wamp/www/editeur de texte JS V2/save_as.php"
+			],
+			[
+				"save_",
+				"/C/wamp/www/editeur de texte JS V2/save_as.php"
+			],
+			[
+				"save.",
+				"/C/wamp/www/editeur de texte JS V2/save.php"
+			],
+			[
+				"messa",
+				"/C/wamp/www/editeur de texte JS V2/erreur/message_save_as.php"
+			],
+			[
+				"messas",
+				"/C/wamp/www/editeur de texte JS V2/erreur/message_save_as.php"
+			],
+			[
+				"errmsas",
+				"/C/wamp/www/editeur de texte JS V2/erreur/message_save_as.php"
+			],
+			[
+				"mes",
+				"/C/wamp/www/editeur de texte JS V2/erreur/message_save_as.php"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"js",
+				"/C/wamp/www/editeur de texte JS V2/style.css"
+			],
+			[
+				"savea",
+				"/C/wamp/www/editeur de texte JS V2/save_as.php"
+			],
+			[
+				"err",
+				"/C/wamp/www/editeur de texte JS V2/erreur/message_save_as.php"
+			],
+			[
+				"mm",
+				"/C/wamp/www/editeur de texte JS V2/formulaire.php"
+			],
+			[
+				"mai",
+				"/C/wamp/www/editeur de texte JS V2/erreur/erreur_message_inscription.php"
+			],
+			[
+				"m",
+				"/C/wamp/www/editeur de texte JS V2/main.php"
+			],
+			[
+				"messave",
+				"/C/wamp/www/editeur de texte JS V2/message_save_as.php"
+			],
+			[
+				"erreur_me",
+				"/C/wamp/www/editeur de texte JS V2/erreur/erreur_message.php"
+			],
+			[
+				"ems",
+				"/C/wamp/www/editeur de texte JS V2/message_save_as.php"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"mees",
+				"/C/wamp/www/editeur de texte JS V2/message_save_as.php"
+			],
+			[
+				"erreur",
+				"/C/wamp/www/editeur de texte JS V2/erreur/erreur_message.php"
+			],
+			[
+				"mi",
+				"/C/wamp/www/editeur de texte JS V2/main.php"
+			],
+			[
+				"ja",
+				"javascript.js"
+			],
+			[
+				"",
+				"/C/wamp/www/editeur de texte JS V2/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/#Python/projet/deadSpace.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}
